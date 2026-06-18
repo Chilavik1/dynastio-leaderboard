@@ -7,7 +7,7 @@
 Склонируйте репозиторий на сервер и установите все необходимые зависимости:
 
 ```bash
-git clone https://github.com
+git clone https://github.com/Chilavik1/dynastio-leaderboard.git
 cd dynastio-leaderboard
 npm install
 ```
