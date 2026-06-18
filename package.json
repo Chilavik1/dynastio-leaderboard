@@ -1,0 +1,20 @@
+{
+  "name": "DynastioLeaderboard",
+  "version": "1.0.0",
+  "description": "Dynast.io web server for leaderboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "isvntnk",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "date-fns": "^3.6.0",
+    "dotenv": "^17.4.2",
+    "express": "^4.22.2",
+    "inquirer": "^8.2.7",
+    "sqlite3": "^5.1.7"
+  }
+}
